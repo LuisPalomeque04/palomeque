@@ -1,0 +1,45 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.form-content {
+  width: 40%;
+  height: 60%;
+  margin: auto;
+  background-color: #012840;
+  color: #F27405;
+
+}
+
+label {
+
+  color: aliceblue;
+
+}
+
+.imagen {
+
+  width: 45%;
+  padding-top: 5%;
+
+}
+
+.boton {
+
+  background-color: #05F2F2;
+  padding-top: .7rem;
+
+}
+
+.marco-blanco {
+
+  width: 510px;
+  height: 500px;
+  border: 5px solid #ffffff;
+  background-color: transparent;
+  
+
+}
